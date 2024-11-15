@@ -1,7 +1,7 @@
 {
   "name": "S&P 500",
   "source": "Yahoo Finance",
-  "last_updated": "2024-11-15 16:19:57",
+  "last_updated": "2024-11-15 16:24:03",
   "data": [
     {
       "date": "2000-01-03 00:00:00-05:00",
