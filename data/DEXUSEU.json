@@ -1,7 +1,7 @@
 {
   "name": "USD to EUR Exchange Rate",
   "source": "FRED",
-  "last_updated": "2024-11-15 16:23:59",
+  "last_updated": "2024-11-15 16:27:44",
   "data": [
     {
       "date": "2000-01-03",
