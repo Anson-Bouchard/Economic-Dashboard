@@ -1,7 +1,7 @@
 {
   "name": "Consumer Price Index",
   "source": "FRED",
-  "last_updated": "2024-11-15 13:30:34",
+  "last_updated": "2024-11-15 13:44:00",
   "data": [
     {
       "date": "2000-01-01",
