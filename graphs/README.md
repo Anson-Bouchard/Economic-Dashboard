@@ -1,0 +1,1 @@
+This directory contains economic indicator graphs.
