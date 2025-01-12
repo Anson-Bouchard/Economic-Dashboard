@@ -1,7 +1,7 @@
 {
   "name": "Federal Funds Rate",
   "source": "FRED",
-  "last_updated": "2024-12-03 11:01:55",
+  "last_updated": "2025-01-11 18:14:26",
   "data": [
     {
       "date": "2000-01-01",
@@ -1198,6 +1198,10 @@
     {
       "date": "2024-11-01",
       "value": 4.64
+    },
+    {
+      "date": "2024-12-01",
+      "value": 4.48
     }
   ]
 }
